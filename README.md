@@ -1,2 +1,2 @@
-# Pairs-Trading-Strategy
-To develop a market-neutral trading strategy based on the cointegration of two stocks.
+# Numerical Methods (Analysis) Codes
+Python code for some of the Numerical Analysis Methods which I know and taught in Numerical Methods Course @IITH Sem 3.
